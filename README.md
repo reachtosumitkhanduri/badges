@@ -1,3 +1,2 @@
 # badges got one
-two
-sad
+accept it
